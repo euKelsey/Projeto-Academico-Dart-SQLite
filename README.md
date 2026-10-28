@@ -1,17 +1,26 @@
-# flutter_application_1
+# Projeto Acadêmico — Dart, Flutter e SQLite
 
-A new Flutter project.
+Este é um projeto acadêmico desenvolvido para praticar os conceitos estudados em aula, utilizando **Dart, Flutter e SQLite**.
 
-## Getting Started
+O aplicativo permite cadastrar e gerenciar sessões de estudo, com armazenamento local dos dados.
 
-This project is a starting point for a Flutter application.
+## Conceitos trabalhados
 
-A few resources to get you started if this is your first Flutter project:
+- List e Map em Dart
+- ListView e construção de interfaces no Flutter
+- Formulários e validação de dados
+- Banco de dados SQLite
+- Operações CRUD (cadastrar, consultar, editar e excluir)
+- Persistência de dados
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tecnologias utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Dart
+- Flutter
+- SQLite
+
+## Testes
+
+O projeto foi executado e testado com sucesso no Windows, em emulador Android e em dispositivo Android físico por meio de APK.
+
+**Finalidade:** exclusivamente acadêmica, para aprendizado e prática dos conteúdos apresentados em aula.
